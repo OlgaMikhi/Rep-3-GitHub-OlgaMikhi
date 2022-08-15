@@ -1,3 +1,7 @@
 www qqqqq eeeee 111222333
+<<<<<<< HEAD
 
 sssssssssssssssssssssssssssssssss
+=======
+chnges in the file on local branch
+>>>>>>> OlgaMikh
